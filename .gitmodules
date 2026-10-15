@@ -1,6 +1,6 @@
 [submodule "bread"]
 	path = bread
-	url = https://github.com/Jake-Insene/bread.git
+	url = https://github.com/Jose-Castano/bread.git
 [submodule "packages/Basic"]
 	path = packages/Basic
-	url = https://github.com/Jake-Insene/Basic
+	url = https://github.com/Jose-Castano/Basic
